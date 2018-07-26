@@ -1,11 +1,14 @@
 {
-    "name": "collizo4sky/omnipay-2checkout",
-    "description": "2Checkout driver for the Omnipay payment processing library",
+    "name": "omnipay-amole",
+    "description": "Amole driver for the Omnipay payment processing library",
     "keywords": [
-        "omnipay",
-        "2checkout"
+        "amole",
+        "payment"
+        "dashen"
+        "ethiopia"
+        "gateway"
     ],
-    "homepage": "https://github.com/collizo4sky/omnipay-2checkout",
+    "homepage": "https://github.com/mfissehaye/omnipay-amole",
     "license": "MIT",
     "authors": [
         {
