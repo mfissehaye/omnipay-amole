@@ -1,11 +1,11 @@
 {
-    "name": "omnipay-amole",
+    "name": "mfissehaye/omnipay-amole",
     "description": "Amole driver for the Omnipay payment processing library",
     "keywords": [
         "amole",
-        "payment"
-        "dashen"
-        "ethiopia"
+        "payment",
+        "dashen",
+        "ethiopia",
         "gateway"
     ],
     "homepage": "https://github.com/mfissehaye/omnipay-amole",
